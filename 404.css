@@ -1,0 +1,40 @@
+body{
+    margin-left:300px;
+    background-color: black;
+    color :white;
+}
+h1{
+    
+    font-size: 130px;
+
+    margin-bottom: -70px;
+
+}
+#jamie{
+    width: 30%;
+    height: 30%;
+    cursor: crosshair;
+    margin-bottom: -30px;
+}
+#button{
+    position: relative;
+    float: right;
+    right: 50px;
+    top:350px;
+    cursor: pointer;
+    width: 300px;
+    height: 100px;
+    background-color: aliceblue;
+    font-size:50px;
+    color:white;
+    background-color: black
+    
+
+
+}
+#button:hover{
+    background-color: white;
+    color : black;
+    transition: 4s ease;
+    
+}
